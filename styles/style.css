@@ -416,9 +416,12 @@ iframe
     *background: rgb(26,185,204);
     *background: linear-gradient(90deg, rgba(26,185,204,1) 0%, rgba(35,9,121,1) 35%, rgba(0,212,255,1) 100%);
  
-    background: rgb(7,9,34);
-    background: linear-gradient(90deg, rgba(7,9,34,1) 0%, rgba(225,0,247,1) 35%, rgba(2,0,46,1) 100%);
+    *background: rgb(7,9,34);
+    *background: linear-gradient(90deg, rgba(7,9,34,1) 0%, rgba(225,0,247,1) 35%, rgba(2,0,46,1) 100%);
     
+    
+    background: rgb(32,55,192);
+    background: linear-gradient(0deg, rgba(32,55,192,1) 0%, rgba(26,214,244,1) 100%);
     
     text-align: center;
     *background-color: dodgerblue;
@@ -446,10 +449,14 @@ iframe
     *background: rgb(26,185,204);
     *background: linear-gradient(90deg, rgba(26,185,204,1) 0%, rgba(35,9,121,1) 35%, rgba(0,212,255,1) 100%);
  
-     background: rgb(7,9,34);
-     background: linear-gradient(90deg, rgba(7,9,34,1) 0%, rgba(225,0,247,1) 35%, rgba(2,0,46,1) 100%);
+     *background: rgb(7,9,34);
+     *background: linear-gradient(90deg, rgba(7,9,34,1) 0%, rgba(225,0,247,1) 35%, rgba(2,0,46,1) 100%);
     
-    *background-color: dodgerblue;
+    background: rgb(32,55,192);
+    background: linear-gradient(0deg, rgba(32,55,192,1) 0%, rgba(26,214,244,1) 100%);
+        
+        
+        
     *font-family: 'Open Sans', sans-serif;
     *font-family: 'Montserrat', sans-serif;
     font-family: 'Indie Flower', cursive;
@@ -518,8 +525,12 @@ iframe
     margin-left: 2.5px;
     text-align: center;
     *background-color: deeppink;
-    background: rgb(6,8,27);
-    background: linear-gradient(90deg, rgba(6,8,27,1) 0%, rgba(233,3,255,1) 77%, rgba(2,0,45,1) 100%);
+    
+    *background: rgb(6,8,27);
+    *background: linear-gradient(90deg, rgba(6,8,27,1) 0%, rgba(233,3,255,1) 77%, rgba(2,0,45,1) 100%);
+    
+    background: rgb(32,55,192);
+    background: linear-gradient(0deg, rgba(32,55,192,1) 0%, rgba(26,214,244,1) 100%);
     
     
     *font-family: 'Open Sans', sans-serif;
@@ -544,10 +555,11 @@ iframe
     margin-left: 2.5px;
     text-align: center;
    
-     background: rgb(6,8,27);
-     background: linear-gradient(90deg, rgba(6,8,27,1) 0%, rgba(233,3,255,1) 77%, rgba(2,0,45,1) 100%);  
+     *background: rgb(6,8,27);
+     *background: linear-gradient(90deg, rgba(6,8,27,1) 0%, rgba(233,3,255,1) 77%, rgba(2,0,45,1) 100%);  
         
-    
+    background: rgb(32,55,192);
+    background: linear-gradient(0deg, rgba(32,55,192,1) 0%, rgba(26,214,244,1) 100%);
         
         
     *font-family: 'Open Sans', sans-serif;
@@ -644,7 +656,7 @@ iframe
     background-color: ivory;
     margin: auto;
     margin-top: 13px;
-        overflow: scroll;
+    overflow: scroll;
 }
 }
 
@@ -658,10 +670,16 @@ iframe
     height: 600px;
     border: .1px solid width;
     border-radius: 20px;
-    .background-color: aliceblue;
+    *background-color: aliceblue;
    
-background: rgb(7,160,255);
-background: linear-gradient(0deg, rgba(7,160,255,1) 17%, rgba(255,154,255,0.9198945971502774) 69%);
+    *background: rgb(7,160,255);
+    *background: linear-gradient(0deg, rgba(7,160,255,1) 17%, rgba(255,154,255,0.9198945971502774) 69%);
+    
+    
+   background: rgb(32,55,192);
+   background: linear-gradient(0deg, rgba(32,55,192,1) 0%, rgba(26,214,244,1) 100%);
+    
+    
     
     margin: auto;
     margin-top: auto;
@@ -679,8 +697,12 @@ background: linear-gradient(0deg, rgba(7,160,255,1) 17%, rgba(255,154,255,0.9198
     border-radius: 20px;
     *background-color: aliceblue;
     
-background: rgb(7,160,255);
-background: linear-gradient(0deg, rgba(7,160,255,1) 17%, rgba(255,154,255,0.9198945971502774) 69%);
+    *background: rgb(7,160,255);
+    *background: linear-gradient(0deg, rgba(7,160,255,1) 17%, rgba(255,154,255,0.9198945971502774) 69%);
+     
+     background: rgb(32,55,192);
+     background: linear-gradient(0deg, rgba(32,55,192,1) 0%, rgba(26,214,244,1) 100%);  
+        
         
     margin: auto;
     margin-top: 13px;
